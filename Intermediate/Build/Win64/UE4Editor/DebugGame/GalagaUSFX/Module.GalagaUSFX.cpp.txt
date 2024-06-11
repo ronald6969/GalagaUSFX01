@@ -1,0 +1,105 @@
+D:\galaga\Intermediate\Build\Win64\UE4Editor\DebugGame\GalagaUSFX\Definitions.GalagaUSFX.h
+D:/galaga/Source/GalagaUSFX/ArmaLaser.cpp
+D:\galaga\Source\GalagaUSFX\ArmaLaser.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\ArmaLaser.generated.h
+D:/galaga/Source/GalagaUSFX/ArmaMetralleta.cpp
+D:\galaga\Source\GalagaUSFX\ArmaMetralleta.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\ArmaMetralleta.generated.h
+D:/galaga/Source/GalagaUSFX/ArmaNormal.cpp
+D:\galaga\Source\GalagaUSFX\ArmaNormal.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\ArmaNormal.generated.h
+D:/galaga/Source/GalagaUSFX/ArmasFacade.cpp
+D:\galaga\Source\GalagaUSFX\ArmasFacade.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\ArmasFacade.generated.h
+D:\galaga\Source\GalagaUSFX\NaveEnemiga.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveEnemiga.generated.h
+D:/galaga/Source/GalagaUSFX/BuilderCrearNavesEnemigas.cpp
+D:\galaga\Source\GalagaUSFX\BuilderCrearNavesEnemigas.h
+D:\galaga\Source\GalagaUSFX\builderNull.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\builderNull.generated.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\BuilderCrearNavesEnemigas.generated.h
+D:/galaga/Source/GalagaUSFX/builderNull.cpp
+D:/galaga/Source/GalagaUSFX/CrearNaveAerea.cpp
+D:\galaga\Source\GalagaUSFX\CrearNaveAerea.h
+D:\galaga\Source\GalagaUSFX\NaveAereaCaza.h
+D:\galaga\Source\GalagaUSFX\NaveEnemigaAerea.h
+D:\galaga\Source\GalagaUSFX\proyectil.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\proyectil.generated.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveEnemigaAerea.generated.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveAereacaza.generated.h
+D:\galaga\Source\GalagaUSFX\NaveAereaTransporte.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveAereaTransporte.generated.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\CrearNaveAerea.generated.h
+D:/galaga/Source/GalagaUSFX/CrearNaveBuilder.cpp
+D:\galaga\Source\GalagaUSFX\CrearNaveBuilder.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\CrearNaveBuilder.generated.h
+D:/galaga/Source/GalagaUSFX/CrearNavesB.cpp
+D:\galaga\Source\GalagaUSFX\CrearNavesB.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\CrearNavesB.generated.h
+D:\galaga\Source\GalagaUSFX\CrearNavesTerrestre.h
+D:\galaga\Source\GalagaUSFX\NaveTerrestreCaza.h
+D:\galaga\Source\GalagaUSFX\NaveEnemigaTerrestre.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveEnemigaTerrestre.generated.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveTerrestreCaza.generated.h
+D:\galaga\Source\GalagaUSFX\NaveTerrestreTransporte.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveTerrestreTransporte.generated.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\CrearNavesTerrestre.generated.h
+D:/galaga/Source/GalagaUSFX/CrearNavesTerrestre.cpp
+D:/galaga/Source/GalagaUSFX/CrearNavesTransporte.cpp
+D:\galaga\Source\GalagaUSFX\CrearNavesTransporte.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\CrearNavesTransporte.generated.h
+D:/galaga/Source/GalagaUSFX/EscuadronLineal.cpp
+D:\galaga\Source\GalagaUSFX\EscuadronLineal.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\EscuadronLineal.generated.h
+D:/galaga/Source/GalagaUSFX/EscuadronLuna.cpp
+D:\galaga\Source\GalagaUSFX\EscuadronLuna.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\EscuadronLuna.generated.h
+D:/galaga/Source/GalagaUSFX/EscuadronNormal.cpp
+D:\galaga\Source\GalagaUSFX\EscuadronNormal.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\EscuadronNormal.generated.h
+D:/galaga/Source/GalagaUSFX/GalagaUSFX.cpp
+D:\galaga\Source\GalagaUSFX\GalagaUSFX.h
+D:/galaga/Source/GalagaUSFX/GalagaUSFXPawn.cpp
+D:\galaga\Source\GalagaUSFX\GalagaUSFXPawn.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\GalagaUSFXPawn.generated.h
+D:\galaga\Source\GalagaUSFX\GalagaUSFXProjectile.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\GalagaUSFXProjectile.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+D:/galaga/Source/GalagaUSFX/GalagaUSFXProjectile.cpp
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+D:/galaga/Source/GalagaUSFX/IStrategiEscuadrones.cpp
+D:\galaga\Source\GalagaUSFX\IStrategiEscuadrones.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\IStrategiEscuadrones.generated.h
+D:/galaga/Source/GalagaUSFX/NaveAereaCaza.cpp
+D:/galaga/Source/GalagaUSFX/NaveAereaTransporte.cpp
+D:/galaga/Source/GalagaUSFX/NaveEnemiga.cpp
+D:/galaga/Source/GalagaUSFX/NaveEnemigaAerea.cpp
+D:/galaga/Source/GalagaUSFX/NaveTerrestreTransporte.cpp
+D:/galaga/Source/GalagaUSFX/proyectil.cpp
+D:/galaga/Source/GalagaUSFX/UsarCambiosBalas.cpp
+D:\galaga\Source\GalagaUSFX\UsarCambiosBalas.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\UsarCambiosBalas.generated.h
+D:/galaga/Source/GalagaUSFX/UsarCambiosDeNaves.cpp
+D:\galaga\Source\GalagaUSFX\UsarCambiosDeNaves.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\UsarCambiosDeNaves.generated.h

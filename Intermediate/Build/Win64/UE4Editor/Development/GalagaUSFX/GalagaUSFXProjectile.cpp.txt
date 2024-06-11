@@ -1,0 +1,9 @@
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Development\GalagaUSFX\Definitions.GalagaUSFX.h
+D:\galaga\Source\GalagaUSFX\GalagaUSFXProjectile.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\GalagaUSFXProjectile.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+D:\galaga\Source\GalagaUSFX\NaveEnemiga.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveEnemiga.generated.h

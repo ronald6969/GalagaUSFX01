@@ -1,0 +1,9 @@
+D:\galaga\Intermediate\Build\Win64\UE4Editor\DebugGame\GalagaUSFX\Definitions.GalagaUSFX.h
+D:\galaga\Source\GalagaUSFX\Niveles.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\Niveles.generated.h
+D:\galaga\Source\GalagaUSFX\builderNull.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\builderNull.generated.h
+D:\galaga\Source\GalagaUSFX\NaveEnemiga.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveEnemiga.generated.h
+D:\galaga\Source\GalagaUSFX\IImplementacion.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\IImplementacion.generated.h

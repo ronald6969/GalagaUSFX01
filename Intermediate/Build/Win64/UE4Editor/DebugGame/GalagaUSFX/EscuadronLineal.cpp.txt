@@ -1,0 +1,3 @@
+D:\galaga\Intermediate\Build\Win64\UE4Editor\DebugGame\GalagaUSFX\Definitions.GalagaUSFX.h
+D:\galaga\Source\GalagaUSFX\EscuadronLineal.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\EscuadronLineal.generated.h

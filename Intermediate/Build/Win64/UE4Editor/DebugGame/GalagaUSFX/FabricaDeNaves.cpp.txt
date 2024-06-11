@@ -1,0 +1,25 @@
+D:\galaga\Intermediate\Build\Win64\UE4Editor\DebugGame\GalagaUSFX\Definitions.GalagaUSFX.h
+D:\galaga\Source\GalagaUSFX\FabricaDeNaves.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\FabricaDeNaves.generated.h
+D:\galaga\Source\GalagaUSFX\NaveTerrestreCaza.h
+D:\galaga\Source\GalagaUSFX\NaveEnemigaTerrestre.h
+D:\galaga\Source\GalagaUSFX\NaveEnemiga.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveEnemiga.generated.h
+D:\galaga\Source\GalagaUSFX\proyectil.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\proyectil.generated.h
+D:\galaga\Source\GalagaUSFX\ArmaNormal.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\ArmaNormal.generated.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveEnemigaTerrestre.generated.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveTerrestreCaza.generated.h
+D:\galaga\Source\GalagaUSFX\NaveAereaCaza.h
+D:\galaga\Source\GalagaUSFX\NaveEnemigaAerea.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveEnemigaAerea.generated.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveAereacaza.generated.h
+D:\galaga\Source\GalagaUSFX\NaveAereaTransporte.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveAereaTransporte.generated.h

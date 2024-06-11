@@ -1,0 +1,21 @@
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Development\GalagaUSFX\Definitions.GalagaUSFX.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\galaga\Source\GalagaUSFX/CrearNavesTerrestre.h
+D:\galaga\Source\GalagaUSFX\BuilderCrearNavesEnemigas.h
+D:\galaga\Source\GalagaUSFX\builderNull.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\builderNull.generated.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\BuilderCrearNavesEnemigas.generated.h
+D:\galaga\Source\GalagaUSFX\NaveTerrestreCaza.h
+D:\galaga\Source\GalagaUSFX\NaveEnemigaTerrestre.h
+D:\galaga\Source\GalagaUSFX\NaveEnemiga.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveEnemiga.generated.h
+D:\galaga\Source\GalagaUSFX\proyectil.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\proyectil.generated.h
+D:\galaga\Source\GalagaUSFX\ArmaNormal.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\ArmaNormal.generated.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveEnemigaTerrestre.generated.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveTerrestreCaza.generated.h
+D:\galaga\Source\GalagaUSFX\NaveTerrestreTransporte.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveTerrestreTransporte.generated.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\CrearNavesTerrestre.generated.h

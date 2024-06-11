@@ -1,0 +1,5 @@
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Development\GalagaUSFX\Definitions.GalagaUSFX.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\galaga\Source\GalagaUSFX/EscuadronNormal.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\EscuadronNormal.generated.h

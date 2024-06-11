@@ -1,0 +1,2 @@
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Development\GalagaUSFX\Definitions.GalagaUSFX.h
+D:\galaga\Source\GalagaUSFX\GalagaUSFX.h

@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GalagaUSFX.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D3759F33-D0C5-4881-80D6-749C57296EF3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GalagaUSFX.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GalagaUSFXEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FEACB2CB-537F-4460-90B2-0C2311A5895C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GalagaUSFX">
+      <UniqueIdentifier>{0AFA43B5-F944-4FF7-ACAC-6C72BA78770E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GalagaUSFX\ArmaLaser.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\ArmaLaser.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\ArmaMetralleta.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\ArmaMetralleta.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\ArmaNormal.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\ArmaNormal.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\ArmasFacade.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\ArmasFacade.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\BuilderCrearNavesEnemigas.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\BuilderCrearNavesEnemigas.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\builderNull.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\builderNull.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\CrearNaveAerea.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\CrearNaveAerea.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\CrearNaveBuilder.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\CrearNaveBuilder.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\CrearNavesB.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\CrearNavesB.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\CrearNavesCaza.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\CrearNavesCaza.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\CrearNavesTerrestre.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\CrearNavesTerrestre.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\CrearNavesTransporte.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\CrearNavesTransporte.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\EscuadronLineal.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\EscuadronLineal.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\EscuadronLuna.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\EscuadronLuna.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\EscuadronNormal.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\EscuadronNormal.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\FabricaDeNaves.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\FabricaDeNaves.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\GalagaUSFX\GalagaUSFX.Build.cs">
+      <Filter>Source\GalagaUSFX</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GalagaUSFX\GalagaUSFX.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\GalagaUSFX.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\GalagaUSFXGameMode.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\GalagaUSFXGameMode.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\GalagaUSFXPawn.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\GalagaUSFXPawn.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\GalagaUSFXProjectile.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\GalagaUSFXProjectile.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\IImplementacion.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\IImplementacion.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\IStrategiEscuadrones.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\IStrategiEscuadrones.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\NaveAereaCaza.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\NaveAereaCaza.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\NaveAereaTransporte.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\NaveAereaTransporte.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\NaveEnemiga.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\NaveEnemiga.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\NaveEnemigaAerea.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\NaveEnemigaAerea.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\NaveEnemigaTerrestre.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\NaveEnemigaTerrestre.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\NaveTerrestreCaza.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\NaveTerrestreCaza.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\NaveTerrestreTransporte.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\NaveTerrestreTransporte.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\Niveles.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\Niveles.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\proyectil.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\proyectil.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\UsarCambiosBalas.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\UsarCambiosBalas.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\UsarCambiosDeNaves.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\UsarCambiosDeNaves.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

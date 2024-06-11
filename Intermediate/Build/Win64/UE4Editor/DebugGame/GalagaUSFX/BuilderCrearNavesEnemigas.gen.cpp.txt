@@ -1,0 +1,7 @@
+D:\galaga\Intermediate\Build\Win64\UE4Editor\DebugGame\GalagaUSFX\Definitions.GalagaUSFX.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\galaga\Source\GalagaUSFX/BuilderCrearNavesEnemigas.h
+D:\galaga\Source\GalagaUSFX\builderNull.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\builderNull.generated.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\BuilderCrearNavesEnemigas.generated.h

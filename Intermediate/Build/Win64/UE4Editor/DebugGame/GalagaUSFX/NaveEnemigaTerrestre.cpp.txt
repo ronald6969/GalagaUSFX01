@@ -1,0 +1,9 @@
+D:\galaga\Intermediate\Build\Win64\UE4Editor\DebugGame\GalagaUSFX\Definitions.GalagaUSFX.h
+D:\galaga\Source\GalagaUSFX\NaveEnemigaTerrestre.h
+D:\galaga\Source\GalagaUSFX\NaveEnemiga.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveEnemiga.generated.h
+D:\galaga\Source\GalagaUSFX\proyectil.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\proyectil.generated.h
+D:\galaga\Source\GalagaUSFX\ArmaNormal.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\ArmaNormal.generated.h
+D:\galaga\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX\NaveEnemigaTerrestre.generated.h
